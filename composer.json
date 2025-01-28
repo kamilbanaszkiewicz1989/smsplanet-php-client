@@ -25,7 +25,7 @@
         "ext-dom": "*",
         "ext-simplexml": "*",
         "ext-fileinfo": "*",
-        "guzzlehttp/guzzle": "^7.0.1",
+        "guzzlehttp/guzzle": "^6.0.3",
         "nesbot/carbon": "^2.20"
     },
     "autoload": {
