@@ -26,7 +26,7 @@
         "ext-simplexml": "*",
         "ext-fileinfo": "*",
         "guzzlehttp/guzzle": "^6.3",
-        "nesbot/carbon": "^2.20"
+        "nesbot/carbon": "2.20"
     },
     "autoload": {
         "psr-4": {
